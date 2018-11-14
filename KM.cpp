@@ -6,7 +6,7 @@
 
 // using namespace std;  
 
-#define MAX 100  
+#define MAX 1000  
 
 #define	T_IN	prhs[0]
 #define	Y_IN	prhs[1]
